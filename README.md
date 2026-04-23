@@ -12,8 +12,8 @@ Data Source
 - Kaggle: Tommy John Surgery Dataset
 
 **Project Goals**
-- Analyze how pitch type usage relaste to injuries
-- Compare different pitch type uasge against injury counts
+- Analyze how pitch type usage relates to injuries
+- Compare different pitch type usage against injury counts
 - Identify If a specific pitch leads to more injuries
 
 **Tools & Technologies**
