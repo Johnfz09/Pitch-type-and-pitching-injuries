@@ -12,9 +12,9 @@ Data Source
 - Kaggle: Tommy John Surgery Dataset
 
 **Project Goals**
-- Analyze how pitch type usage relates to injuries
-- Compare different pitch type usage against injury counts
-- Identify If a specific pitch leads to more injuries
+- Does the usage % of specific pitch types correlate with injury status
+- Analyzing the relationship Between high velocity and UCL tension
+- Investigating whether pitches that require spin rate for effectiveness lead to higher injury status
 
 **Tools & Technologies**
 - VSCODE
