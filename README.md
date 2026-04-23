@@ -1,6 +1,6 @@
 **Database and Source**
 - Tommy John Injuries 2015-2023
-- data/Database SQL file
+- https://github.com/Johnfz09/Pitch-type-and-pitching-injuries/blob/main/data/Database%20SQL%20file
 
 **Overview**
 - This project is an analysis of the connection between pitching mechanics, pitch types, and pitching injuries. Our goal is to gain a clearer idea of how we can help teams and pitchers stay healthy and prolong their careers.
